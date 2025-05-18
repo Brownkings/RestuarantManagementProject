@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "609859796728",
+    "firebase_url": "https://restaurantmanagementsyst-6fe07-default-rtdb.firebaseio.com",
+    "project_id": "restaurantmanagementsyst-6fe07",
+    "storage_bucket": "restaurantmanagementsyst-6fe07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609859796728:android:0612c3960b064c53f5050d",
+        "android_client_info": {
+          "package_name": "com.example.restaurantmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx4qAjw3Sr4epeqaDRDbThBLa8UQjJUgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609859796728:android:ee77d8d0f9308969f5050d",
+        "android_client_info": {
+          "package_name": "com.spu.restaurantmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx4qAjw3Sr4epeqaDRDbThBLa8UQjJUgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
